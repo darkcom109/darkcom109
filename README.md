@@ -46,7 +46,6 @@
 ### 📌 Projects Highlight  
 - **RemedyDose** – AI-powered medication reminder app *(React Native, Expo, Hugging Face, Appwrite)*  
 - **Work in Progress** – Fitness plan generator using **OpenAI Vision API**  
-- **King’s Earth** – Clothing swap platform to reduce textile waste *(Flask, SQLite, Bootstrap)*
 - **Quick Chat** – A live chat platform to interact with friends *(MERN, Tailwind, Socket.io)*  
 
 ###
