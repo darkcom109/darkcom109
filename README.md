@@ -13,7 +13,7 @@
 - 🎓 BSc Computer Science student at **King’s College London** (2024–2027)  
 - 💻 Passionate about **full-stack development, mobile apps, and AI integration**  
 - 🚀 Hackathon enthusiast: participated in 6+ hackathons, including **HackLondon2025**, with a **1st place win** in a sustainability-themed competition  
-- 🛠 Currently developing a **prototype mobile app** for a biosensor start-up (Bluetooth Low Energy + real-time data filtering)  
+- 🛠 Currently developing a **prototype mobile app** for a tech start-up
 - 🎥 Freelance **social media manager & content creator** – grew a solicitor’s TikTok from 2k → 5k followers in 4 months  
 
 ###
