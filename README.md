@@ -15,7 +15,6 @@
 - 🚀 Hackathon enthusiast: participated in 6+ hackathons, including **HackLondon2025**, with a **1st place win** in a sustainability-themed competition  
 - 🛠 Currently developing a **prototype mobile app** for a tech start-up
 - 🎥 Freelance **social media manager & content creator** – grew a solicitor’s TikTok from 2k → 5k followers in 4 months  
-
 ###
 
 ### 🛠️ Tech Stack  
@@ -55,7 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
 </div>
-###
 
 ### 📌 Projects Highlight  
 - **RemedyDose** – AI-powered medication reminder app *(React Native, Expo, Hugging Face, Appwrite)*
