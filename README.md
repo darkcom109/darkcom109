@@ -74,7 +74,7 @@
 ### 📌 Projects Highlight  
 - **RemedyDose** – AI-powered medication reminder app *(React Native, Expo, Hugging Face, Appwrite)*
 - **Flaskify** - A platform for users to learn Flask, through Flask, built with Flask *(Flask, Bootstrap, SQLite)*
-- **Quick Chat** – A live chat platform to interact with friends *(MERN, Tailwind, Socket.io)*
+- **Webify.ai-v2** – An application for building quick prototypes using a simple prompt *(Flask, Bootstrap, Tailwind, OpenAI API)*
 ###
 
 ### 🌐 Connect with Me  
