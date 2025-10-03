@@ -17,6 +17,13 @@
 - 🎥 Freelance **social media manager & content creator** – grew a solicitor’s TikTok from 2k → 5k followers in 4 months  
 ###
 
+### 📄 Relevant Experience
+- **Web Developer** – Alinsons (Summer 2025)  
+  - Built a professional landing page using HTML and CSS  
+
+- **King's Edge Program** (Summer 2025)  
+  - Built a prototype clothes-swapping application exclusive to King's College London students
+
 ### 🛠️ Tech Stack  
 <div align="left">
   <!-- Languages -->
