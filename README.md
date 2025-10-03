@@ -19,10 +19,19 @@
 
 ### 📄 Relevant Experience
 - **Web Developer** – Alinsons (Summer 2025)  
-  - Built a professional landing page using HTML and CSS  
+  - Designed and launched a responsive landing page using HTML5 and CSS3, aligned with brand identity
+  - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
+  - Collaborated with client to gather requirements and deliver a product that met business needs
 
 - **King's Edge Program** (Summer 2025)  
   - Built a prototype clothes-swapping application exclusive to King's College London students
+  - Learnt to adapt as the role of a leader in a group of 4 other peers
+  - Developed my skills in backend website development
+ 
+### 🏆 Certifications and Rewards
+- Google Cybersecurity Professional Certificate (Coursera)
+- Awarded 1st Place for a Sustainability Hackathon
+- Awarded a Certificate for Participating in the King's Edge Sustainability Programme
 
 ### 🛠️ Tech Stack  
 <div align="left">
