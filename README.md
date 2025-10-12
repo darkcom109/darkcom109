@@ -23,7 +23,7 @@
   - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
   - Collaborated with client to gather requirements and deliver a product that met business needs
 
-- **King's Edge Program** (Summer 2025)  
+- **King's Edge Program** - King's College London (Summer 2025)  
   - Built a prototype clothes-swapping application exclusive to King's College London students
   - Learnt to adapt as the role of a leader in a group of 4 other peers
   - Developed my skills in backend website development
