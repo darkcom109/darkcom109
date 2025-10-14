@@ -32,6 +32,7 @@
 - Google Cybersecurity Professional Certificate (Coursera)
 - Awarded 1st Place for a Sustainability Hackathon
 - Awarded a Certificate for Participating in the King's Edge Sustainability Programme
+- Won the Imperial Coding Challenge using Next.js
 
 ### 🛠️ Tech Stack  
 <div align="left">
