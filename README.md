@@ -75,6 +75,7 @@
 ### 📌 Projects Highlight  
 - **RemedyDose** – AI-powered medication reminder app *(React Native, Expo, Hugging Face, Appwrite)*
 - **Flaskify** - A platform for users to learn Flask, through Flask, built with Flask *(Flask, Bootstrap, SQLite)*
+- **InternHub** - A website to add and track your internship applications as well as search for internships *(Django, Alpine.js, PostgreSQL)*
 - **Webify.ai-v3** – An application for building quick prototypes using a simple prompt *(React, FastAPI, Tailwind, OpenAI API)*
 ###
 
