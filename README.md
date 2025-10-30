@@ -79,6 +79,11 @@
 - **Webify.ai-v3** – An application for building quick prototypes using a simple prompt *(React, FastAPI, Tailwind, OpenAI API)*
 ###
 
+### 🖥️ Deployed Applications
+- https://celestegrity.vercel.app/ - A landing page I designed during my time as a software engineer operations intern at Celestegrity
+- https://advanced-expense-tracker-imperial-2.vercel.app/ - An expense tracker built during the Google Developer's Social Club Imperial College Challenge
+###
+
 ### 🌐 Connect with Me  
 <div align="left">
   <a href="https://www.instagram.com/valentino_dark_com_109/" target="_blank">
