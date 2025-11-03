@@ -21,7 +21,7 @@
 - **Software Engineer Operations Intern** – Celestegrity (Fall 2025)  
   - Partnered with the Co-Founder to help design a modern UI for Celestegrity
   - Deployed on Vercel and implemented CI/CD pipelines for enhanced workflow
-  - https://celestegrity.vercel.app
+  - View the website - https://celestegrity.vercel.app
 
 - **Web Developer** – Alinsons (Summer 2025)  
   - Designed and launched a responsive landing page using HTML5 and CSS3, aligned with brand identity
