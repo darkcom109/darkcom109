@@ -23,7 +23,7 @@
   - Deployed on Vercel and implemented CI/CD pipelines for enhanced workflow
   - View the website - https://celestegrity.vercel.app
 
-- **Web Developer** – Alinsons (Summer 2025)  
+- **Contract Website Developer** – Alinsons (Summer 2025)  
   - Designed and launched a responsive landing page using HTML5 and CSS3, aligned with brand identity
   - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
   - Collaborated with client to gather requirements and deliver a product that met business needs
