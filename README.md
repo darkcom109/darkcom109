@@ -89,8 +89,8 @@
 ###
 
 ### 🖥️ Deployed Applications
+- https://blackstarfleet.com - A production-ready landing page for Black Star Fleet, a car rental company that specialises in Mercedes vehicles
 - https://celestegrity.vercel.app/ - A landing page I designed during my time as a software engineer operations intern at Celestegrity
-- https://advanced-expense-tracker-imperial-2.vercel.app/ - An expense tracker built during the Google Developer's Social Club Imperial College Challenge
 ###
 
 ### 🌐 Connect with Me  
