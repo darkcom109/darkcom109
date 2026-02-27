@@ -7,7 +7,7 @@
 - 🛠 Currently developing a **prototype mobile app** for a tech start-up
 - 🎥 Freelance **social media manager & content creator** – grew a solicitor’s TikTok from 2k → 5k followers in 4 months  
 ###
-
+ 
 ### 📄 Relevant Experience
 - **Software Engineer Operations Intern** – Celestegrity (Fall 2025)  
   - Partnered with the Co-Founder to help design a modern UI for Celestegrity
