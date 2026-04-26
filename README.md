@@ -8,27 +8,26 @@
 ###
 
 ### 📄 Relevant Experience
-- **Software Engineer Operations Intern** – Celestegrity (Fall 2025)  
+- **Contract Website Developer** – Black Star Fleet, Alinsons (July 2025 - April 2026)  
+  - Designed and launched a responsive landing page using HTML5 and CSS3, aligned with brand identity
+  - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
+  - Collaborated with client to gather requirements and deliver a product that met business needs
+  
+- **Technical Operations Intern** – Celestegrity (Sep 2025 - Oct 2025)  
   - Partnered with the Co-Founder to help design a modern UI for Celestegrity
   - Deployed on Vercel and implemented CI/CD pipelines for enhanced workflow
   - View the website - https://celestegrity.vercel.app
 
-- **Contract Website Developer** – Alinsons (Summer 2025)  
-  - Designed and launched a responsive landing page using HTML5 and CSS3, aligned with brand identity
-  - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
-  - Collaborated with client to gather requirements and deliver a product that met business needs
-
-- **King's Edge Programme** - King's College London (Summer 2025)  
+- **King's Edge Programme** - King's College London (June 2025)  
   - Built a prototype clothes-swapping application exclusive to King's College London students
   - Learnt to adapt as the role of a leader in a group of 4 other peers
   - Developed my skills in backend website development
  
 ### 🏆 Certifications and Rewards
-- Google Cybersecurity Professional Certificate (Coursera)
+- Google Cybersecurity Professional Certificate
 - Awarded 1st Place for a Sustainability Hackathon
-- Awarded a Certificate for Participating in the King's Edge Sustainability Programme
-- Won the Imperial Coding Challenge using Next.js
-- Introduction to Ethical Hacking
+- Awarded for Participation in the King's Edge Sustainability Programme
+- Won 1st Place in Imperial Coding Challenge using Next.js and Cursor
 
 ### 🛠️ Tech Stack  
 <div align="left">
@@ -89,7 +88,7 @@
 
 ### 🖥️ Deployed Applications
 - https://blackstarfleet.com - A production-ready landing page for Black Star Fleet, a car rental company that specialises in Mercedes vehicles
-- https://celestegrity.vercel.app/ - A landing page I designed during my time as a software engineer operations intern at Celestegrity
+- https://celestegrity.vercel.app/ - A landing page I designed during my time as a technical operations intern at Celestegrity
 ###
 
 ### 🌐 Connect with Me  
