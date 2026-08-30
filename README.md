@@ -8,8 +8,8 @@
 ###
 
 ### 📄 Relevant Experience
-- **Contract Website Developer** – Black Star Fleet, Alinsons (July 2025 - April 2026)  
-  - Designed and launched a responsive landing page using HTML5 and CSS3, aligned with brand identity
+- **Contract Website Developer** – Black Star Fleet (April 2026 - August 2026)  
+  - Designed and launched a responsive landing page using Tailwind, aligned with brand identity
   - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
   - Collaborated with client to gather requirements and deliver a product that met business needs
   
