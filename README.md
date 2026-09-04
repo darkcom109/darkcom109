@@ -8,7 +8,18 @@
 ###
 
 ### 📄 Relevant Experience
-- **Contract Website Developer** – Black Star Fleet (April 2026 - August 2026)  
+
+- **Software Engineer** – Kajla Revenue Intelligence (March 2026 - Present)  
+  - Independently designed and built an autonomous B2B lead-research engine using Python, SearXNG, Docker and Ollama to discover, score and store 500+ company leads.
+  - Designed a modular data-processing pipeline, separating search, scraping, LLM-based scoring and persistence into reusable components for repeatable automated runs.
+  - Developed internal automation tooling to support financial-data preprocessing and revenue-intelligence workflows.
+
+- **Lead Coding Instructor** – Code Camp (Jan 2026 - July 2026)  
+  - Taught programming fundamentals to young children through interactive lessons and game-development projects, adapting explanations to different ages and ability levels.
+  - Designed and delivered hands-on coding activities, helping students build simple games while developing problem-solving, logical thinking and confidence with technology.
+  - Led classroom sessions and supported individual learners, providing clear feedback, troubleshooting code and maintaining an engaging, collaborative learning environment.
+
+- **Contract Website Developer** – Black Star Fleet (August 2025 - Present)  
   - Designed and launched a responsive landing page using Tailwind, aligned with brand identity
   - Enhanced UI/UX by applying consistent brand colors, typography, and layout principles
   - Collaborated with client to gather requirements and deliver a product that met business needs
@@ -24,10 +35,11 @@
   - Developed my skills in backend website development
  
 ### 🏆 Certifications and Rewards
-- Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate (2025)
+- IBM Full-Stack Professional Certificate (2026)
 - Awarded 1st Place for a Sustainability Hackathon
 - Awarded for Participation in the King's Edge Sustainability Programme
-- Won 1st Place in Imperial Coding Challenge using Next.js and Cursor
+- Won 1st Place in an Imperial Coding Challenge using Next.js and Cursor
 
 ### 🛠️ Tech Stack  
 <div align="left">
